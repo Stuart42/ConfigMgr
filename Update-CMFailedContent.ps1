@@ -1,3 +1,6 @@
+##
+## Note! I don't remember who originally created this. I've only modified it to query for the status of the DP
+##
 $SiteCode = "SMS"
 $OfflineDPHosts = [System.Collections.Generic.List[string]]::new()
 $OnlineDPHosts = [System.Collections.Generic.List[string]]::new()
